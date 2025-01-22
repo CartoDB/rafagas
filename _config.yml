@@ -19,8 +19,7 @@ sass:
 # About/contact
 author:
   name:              Rafagas
-  twitter:           RafagasLinks
-  url:               https://twitter.com/RafagasLinks
+  url:               https://en.osm.town/@rafagaslinks
   email:             xurxosanz@gmail.com
 
 
@@ -32,11 +31,7 @@ github:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-mentions
   - jekyll-sitemap
-
-jekyll-mentions:
-      base_url: https://twitter.com
 
 include:
   - "_pages"
@@ -60,8 +55,6 @@ defaults:
       twitter: LinksGeo
 
 highlighter: null
-
-
 
 theme: minima
 minima:
