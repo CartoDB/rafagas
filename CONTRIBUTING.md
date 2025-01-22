@@ -2,7 +2,6 @@
 
 Feel free to reach out to Raf to propose new resources to share with the community.
 
-* Twitter: https://twitter.com/linksgeo
 * Linkedin: https://www.linkedin.com/in/rafael-roset-910b947/
 
 # How to add new posts to this repository
@@ -78,7 +77,7 @@ The content of the frontmatter are:
 
 Additionally, the following properties can be also added to any link:
   * `lang`: Optional. If the link content is not in English, add this property using the [ISO 639-1][3] language identifier (ex. `ES`, `DE`)
-  * `via`: if Raf is marking this link as shared by someone else, add this property with the Twitter handle (including the `@` character) and **always** use single quotes.
+  * `via`: if Raf is marking this link as shared by someone else, add this property with the social network handle (including the `@` character) and **always** use single quotes.
   * `invalid: true`: this is a maintenance property to indicate the link is not working anymore.
   * `nocheck: true`: this is a maintenance property to indicate to the link checker that this link should not be tested
 
